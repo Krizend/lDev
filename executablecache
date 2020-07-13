@@ -1,0 +1,5 @@
+import os
+from source import start
+
+if __name__ == '__main__':
+    start()
